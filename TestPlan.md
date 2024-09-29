@@ -40,7 +40,7 @@
 - Test case for successful registration flow.
 - Test case for button functionality (e.g., login, sign-up).
 
-### Test Case template
+### Test Case Template
 1. **TC_UI_01**: Validate Home Page Layout on Desktop
 2. **TC_UI_02**: Check Font Style and Size on Registration Page
 3. **TC_FUNC_01**: Verify Vehicle Search Functionality with Valid Inputs
@@ -64,3 +64,5 @@ graph TD;
     G --> L[Expected User Scenarios];
 ```
 
+## Conclusion
+This test plan outlines the scope and strategy for testing the Yoma web application. The combination of manual and automated testing, alongside performance evaluation, aims to ensure a high-quality user experience and robust functionality.
