@@ -1,0 +1,17 @@
+## Summary of Testing Activities
+
+1. **UI Testing**:
+   - Conducted manual tests focusing on page layout, font styles, and responsive design across various devices.
+   - All critical UI components were validated, ensuring adherence to design specifications.
+
+2. **Functional Testing**:
+   - Automated tests were executed successfully for key functionalities such as vehicle search and registration processes.
+   - Various test cases were covered, including both positive and negative scenarios.
+
+3. **Performance Testing**:
+   - Performance tests using K6 simulated 100 concurrent users, validating the application's stability and responsiveness under load.
+   - The application performed reliably within the expected parameters.
+
+## Next Steps
+- Address any identified issues from the testing phases.
+- Plan for regression testing as new features are developed.

@@ -132,5 +132,4 @@ dist
 /.vs/autofw-ts-nightwatch/FileContentIndex
 *.sqlite
 /.vs/VSWorkspaceState.json
-/tests_output
 /.vs/autofw-ts-nightwatch/config
